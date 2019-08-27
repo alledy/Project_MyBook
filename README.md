@@ -7,9 +7,9 @@
 
 ## 화면 캡쳐
 
-![main](./image/main.PNG)
-![login](./image/login.PNG)
-![read](./image/read.PNG)
+![main](./image/main.PNG){: width="50%" height="50%"}
+![login](./image/login.PNG){: width="50%" height="50%"}
+![read](./image/read.PNG){: width="50%" height="50%"}
 
 ## 기술
 * Client
